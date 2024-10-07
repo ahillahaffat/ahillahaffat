@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ahillahaffat&show_icons=true&count_private=true&include_all_commits)<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahillahaffat)](https://github.com/ahillahaffat/readme-components)
+
+<!--
 **ahillahaffat/ahillahaffat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
