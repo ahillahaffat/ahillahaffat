@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahillahaffat&layout=compact)
-
+https://pixel-profile.vercel.app/api/github-stats?username=<ahillahaffat>
 
 <!--
 **ahillahaffat/ahillahaffat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
