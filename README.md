@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=ahillahaffat&show_icons=true&count_private=true&include_all_commits)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahillahaffat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <!--
 **ahillahaffat/ahillahaffat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
