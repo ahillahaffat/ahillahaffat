@@ -1,7 +1,4 @@
 ## Hi there, I'm Learner 👋
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-
 <p align="center">
  <a href="https://www.linkedin.com/in/ahillakammala/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahillakammala"/>
